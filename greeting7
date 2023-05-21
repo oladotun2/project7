@@ -2,6 +2,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! welcome to project7 GitHub remote " );
+        System.out.println( "Hello World! welcome to project7 GitHub remote 2nd commit " );
     }
 }
